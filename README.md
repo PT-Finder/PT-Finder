@@ -5,4 +5,3 @@ To run the application:
 2. Install al  dependancies
 3. run the app by typing the command: streamlit run PT-Finder.py
 
-For any enquiries please contact us at: hossam_hammouda@dgu.ac.kr
