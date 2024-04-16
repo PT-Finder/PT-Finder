@@ -5,7 +5,7 @@ To run the application:
 2. Install all  dependancies
 3. run the app by typing the command: streamlit run PT-Finder.py
 
-Full information on PT-Finder, its possible applications can be found in: https://doi.org/10.1016/j.compbiomed.2024.108444
+Full information on PT-Finder & its possible applications can be found in: https://doi.org/10.1016/j.compbiomed.2024.108444
 
 For inquiries or collaboration questions, please contact:
 [hossam_hammouda@dgu.ac.kr]
